@@ -1,2 +1,4 @@
-
-background-image: linear-gradient(#E63A00,#B61601,#B80019);
+body{
+ height: 100%;
+    background:linear-gradient(to top,#EB0F00,#D4350B,#690000);
+}
